@@ -26,16 +26,17 @@ With **3+ years of professional experience as a Data Scientist**, I specialize i
 A timeline of my journey in **Data Science, AI, and Big Data Engineering**.  
 
 ### 🕒 **2022-2023 | Capgemini | Data Scientist**
-💡 Built **Anomaly Detection Framework** → Achieved **F1-score of 0.83**  
-💡 Developed **Data Profiling System** → Improved **classification accuracy to 97%**  
-💡 Scaled **Incident Management System** → Reduced cycle times **by 33%**  
+- Built **Anomaly Detection Framework** 
+- Developed **Data Profiling System**
+- Scaled **Incident Management System** 
 
 ---
 
 ### 🕒 **2020-2022 | Aurigo | Data Analyst → Senior Data Analyst**  
-💡 Built **BERT-powered Opportunity Scoring Model** → Precision **87%**  
-💡 Designed **Multi-Label Sentiment Analysis** → Hamming Loss **0.12**  
-💡 Led **Customer Segmentation Project** → Silhouette Score **0.73**  
+- Built **BERT-powered Opportunity Scoring Model** 
+- Designed **Multi-Label Sentiment Analysis** 
+- Led **Customer Segmentation Project**
+- Engineered a **Contract Scoring System**  
 
 ---
 
