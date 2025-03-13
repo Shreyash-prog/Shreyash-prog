@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shreyash Kalal!
 
 🚀 **Deep Learning Researcher | Data Scientist**  
-🔬 **Exploring Agentic AI, LLMs, and Scalable Data Pipelines**
+🔹 **Exploring Agentic AI, LLMs, and Scalable Data Pipelines**
 
 ---
 
@@ -11,7 +11,7 @@ With **3+ years of professional experience as a Data Scientist**, I specialize i
 ### 🔎 Currently Exploring:
 - Agentic AI systems that enhance autonomy in AI applications
 
-### 🔹 Research Interests:
+### 🔬 Research Interests:
 - **Multi-Turn Context Retention in Language Modelling**
 - **Sparse Regularization Techniques**
 
@@ -21,7 +21,7 @@ With **3+ years of professional experience as a Data Scientist**, I specialize i
 
 ---
 
-## 🔬 My Work & Projects  
+## 💼 My Work 
 
 ### 🚀 Featured AI & Data Science Projects  
 Here are some of the most exciting projects I’ve worked on, ranging from **LLMs and NLP** to **big data engineering** and **AI optimization**.  
