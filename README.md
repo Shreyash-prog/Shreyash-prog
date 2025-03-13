@@ -1,14 +1,12 @@
 # 👋 Hi, I'm Shreyash Kalal!
 
-🚀 **Deep Learning Researcher | Data Scientist | AI Engineer | LLM Researcher | Data Engineer**  
+🚀 **Deep Learning Researcher | Data Scientist**  
 🔬 **Exploring Agentic AI, LLMs, and Scalable Data Pipelines**
 
 ---
 
 ## 👨‍💻 About Me  
-With **3+ years of experience as a Data Scientist and Machine Learning Engineer**, I specialize in **building intelligent, scalable AI systems** that bridge the gap between research and production. I have worked on **Large Language Models (LLMs), Data Engineering Pipelines, NLP, and Deep Learning**, focusing on **Agentic AI systems that enhance autonomy in AI applications**.  
-
-I am currently a **Graduate Research Assistant at Rutgers University**, working on **multi-turn context retention for LLMs, sparse optimization techniques for high-dimensional data, and retrieval-augmented AI models**.  
+With **3+ years of professional experience as a Data Scientist**, I specialize in **building intelligent, scalable AI systems** that bridge the gap between research and production. Currently exploring **Agentic AI systems that enhance autonomy in AI applications**.  
 
 ### 🔹 Research Interests:
 - **Multi-Turn Context Retention in Language Modelling**  
@@ -89,14 +87,6 @@ If you find my work interesting, **drop a star** ⭐ on my projects and let’s 
 
 ---
 
-## 🔥 **Next Steps**
-Would you like me to:
-- **Write READMEs for individual projects**?  
-- **Optimize your GitHub for job applications**?  
-- **Help you add automation (CI/CD) for AI models**?  
-
-Let me know how I can further improve your GitHub! 🚀🔥  
-
 ### Skills  
 
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a> </p> 
@@ -106,6 +96,7 @@ Let me know how I can further improve your GitHub! 🚀🔥
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Shreyash-prog"><img src="https://github-readme-stats.vercel.app/api?username=Shreyash-prog&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Shreyash-prog's GitHub stats" /></a>
+
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Shreyash-prog/MakeMore" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyash-prog&repo=MakeMore&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
