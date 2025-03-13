@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shreyash Kalal!
 
-🚀 **Data Scientist | AI Engineer | LLM Researcher | Data Engineer**  
+🚀 **Deep Learning Researcher | Data Scientist | AI Engineer | LLM Researcher | Data Engineer**  
 🔬 **Exploring Agentic AI, LLMs, and Scalable Data Pipelines**
 
 ---
@@ -11,7 +11,7 @@ With **3+ years of experience as a Data Scientist and Machine Learning Engineer*
 I am currently a **Graduate Research Assistant at Rutgers University**, working on **multi-turn context retention for LLMs, sparse optimization techniques for high-dimensional data, and retrieval-augmented AI models**.  
 
 ### 🔹 Research Interests:
-- 🚀 **Agentic AI & Autonomous LLMs**  
+- **Agentic AI & Autonomous LLMs**  
 - 🔎 **Retrieval-Augmented Generation (RAG)**  
 - 📊 **Sparse Optimization for ML**  
 - ⚡ **Scalable AI Pipelines (Kafka, Spark, AWS, Snowflake)**  
