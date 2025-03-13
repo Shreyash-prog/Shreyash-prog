@@ -23,34 +23,22 @@ With **3+ years of professional experience as a Data Scientist**, I specialize i
 
 ## 💼 My Work 
 
-### 🚀 Featured AI & Data Science Projects  
-Here are some of the most exciting projects I’ve worked on, ranging from **LLMs and NLP** to **big data engineering** and **AI optimization**.  
+A timeline of my journey in **Data Science, AI, and Big Data Engineering**.  
 
-### **1️⃣ Multi-Turn Context Retention for LLMs**  
-🔹 **Description:** Improving multi-turn discourse coherence in **Language Models (LLMs)** using **hierarchical attention, dynamic memory networks, and adaptive context pruning**.  
-🔹 **Tech Stack:** Python, PyTorch, Transformers, Attention Mechanisms, RLHF  
-🔹 **Impact:** **30% increase in contextual retention** and **reduced hallucinations**.  
-📂 **Repo:** [Coming Soon]  
-
-### **2️⃣ Large-Scale Data Engineering with Kafka & AWS**  
-🔹 **Description:** Designed a **fault-tolerant ETL pipeline** that processes high-throughput **real-time data streams using Apache Kafka, AWS Lambda, and Redshift**.  
-🔹 **Tech Stack:** Kafka, AWS Glue, Redshift, PySpark, Airflow  
-🔹 **Impact:** Reduced ETL latency by **40%** and improved query performance for large datasets.  
-📂 **Repo:** [Coming Soon]  
-
-### **3️⃣ MakeMore – Character-Level Language Model**  
-🔹 **Description:** Built an **AI Shakespeare model** that generates text in the style of classic literature using **RNNs, Transformers, and gradient-based optimization**.  
-🔹 **Tech Stack:** PyTorch, Transformers, GPT, BERT  
-🔹 **Impact:** Reduced model **perplexity by 45%** using **GeLU activations and a novel loss function**.  
-📂 **Repo:** [Coming Soon]  
-
-### **4️⃣ Anomaly Detection & Time Series Forecasting**  
-🔹 **Description:** Developed a **fraud detection system** for **COX Communications** using **Prophet, Seasonal Trend Decomposition, and RNNs**.  
-🔹 **Tech Stack:** Python, Time Series Models, RNN, Prophet  
-🔹 **Impact:** **F1-score of 0.83** in detecting network anomalies.  
-📂 **Repo:** [Coming Soon]  
+### 🕒 **2022-2023 | Capgemini | Data Scientist**
+💡 Built **Anomaly Detection Framework** → Achieved **F1-score of 0.83**  
+💡 Developed **Data Profiling System** → Improved **classification accuracy to 97%**  
+💡 Scaled **Incident Management System** → Reduced cycle times **by 33%**  
 
 ---
+
+### 🕒 **2020-2022 | Aurigo | Data Analyst → Senior Data Analyst**  
+💡 Built **BERT-powered Opportunity Scoring Model** → Precision **87%**  
+💡 Designed **Multi-Label Sentiment Analysis** → Hamming Loss **0.12**  
+💡 Led **Customer Segmentation Project** → Silhouette Score **0.73**  
+
+---
+
 
 ## ⚙️ Tech Stack & Skills  
 
