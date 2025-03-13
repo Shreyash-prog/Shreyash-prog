@@ -12,8 +12,8 @@ With **3+ years of professional experience as a Data Scientist**, I specialize i
 - Agentic AI systems that enhance autonomy in AI applications
 
 ### 🔹 Research Interests:
-- **Multi-Turn Context Retention in Language Modelling** -> Under Dr. Jim Samuel at Rutgers University - Edward J. Bloustein School of Planning and Public Policy
-- **Sparse Regularization Techniques** -> Under Dr. Koulik Khamaru at Rutgers University - School of Arts and Sciences
+- **Multi-Turn Context Retention in Language Modelling**
+- **Sparse Regularization Techniques**
 
 ### 📚 Education:
 🎓 **M.S. in Data Science**, Rutgers University (*2023 – 2025*)  
