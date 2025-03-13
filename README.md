@@ -77,7 +77,27 @@ Here are some of the most exciting projects I’ve worked on, ranging from **LLM
 ---
 
 ## 📫 Let's Connect  
-If you are interested in **Agentic AI, Large Language Models, Data Engineering, or AI Research**, feel free to connect with me!  
+If you too are a **data nerd**, feel free to connect with me!  
+
+<p align="left">  
+  <a href="https://www.github.com/Shreyash-prog" target="_blank" rel="noreferrer">  
+    <picture>  
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />  
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />  
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />  
+    </picture>  
+  </a>  
+  <a href="https://www.linkedin.com/in/shreyash-k-a89823174/" target="_blank" rel="noreferrer">  
+    <picture>  
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />  
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />  
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />  
+    </picture>  
+  </a>  
+  <a href="mailto:ssk241@scarletmail.rutgers.edu" target="_blank" rel="noreferrer">  
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="32" height="32" />  
+  </a>  
+</p>
 
 📧 **Email:** [ssk241@scarletmail.rutgers.edu](mailto:ssk241@scarletmail.rutgers.edu)  
 🔗 **LinkedIn:** [linkedin.com/in/shreyash-k-a89823174](https://www.linkedin.com/in/shreyash-k-a89823174/)  
