@@ -6,7 +6,10 @@
 ---
 
 ## 👨‍💻 About Me  
-With **3+ years of professional experience as a Data Scientist**, I specialize in **building intelligent, scalable AI systems** that bridge the gap between research and production. Currently exploring **Agentic AI systems that enhance autonomy in AI applications**.  
+With **3+ years of professional experience as a Data Scientist**, I specialize in **building intelligent, scalable AI systems** that bridge the gap between research and production. 
+
+### 🔎 Current Exploration:
+- Agentic AI systems that enhance autonomy in AI applications
 
 ### 🔹 Research Interests:
 - **Multi-Turn Context Retention in Language Modelling**  
