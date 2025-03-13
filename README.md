@@ -11,11 +11,8 @@ With **3+ years of experience as a Data Scientist and Machine Learning Engineer*
 I am currently a **Graduate Research Assistant at Rutgers University**, working on **multi-turn context retention for LLMs, sparse optimization techniques for high-dimensional data, and retrieval-augmented AI models**.  
 
 ### 🔹 Research Interests:
-- **Agentic AI & Autonomous LLMs**  
-- 🔎 **Retrieval-Augmented Generation (RAG)**  
-- 📊 **Sparse Optimization for ML**  
-- ⚡ **Scalable AI Pipelines (Kafka, Spark, AWS, Snowflake)**  
-- 🗣️ **NLP, Conversational AI, and Contextual Understanding**  
+- **Multi-Turn Context Retention in Language Modelling**  
+- **Sparse Regularization Techniques**  
 
 ### 📚 Education:
 🎓 **M.S. in Data Science**, Rutgers University (*2023 – 2025*)  
